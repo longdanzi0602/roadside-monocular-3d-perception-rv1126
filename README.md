@@ -30,9 +30,8 @@
 
 ## 📺 演示视频
 
-<video src="https://raw.githubusercontent.com/longdanzi0602/roadside-monocular-3d-perception-rv1126/main/video.mp4" width="100%" controls></video>
-
-本仓库已附带实际板端部署运行效果的演示视频文件（可直接在上方播放器点击播放，或[下载视频文件](video.mp4)）。
+> 📺 **[点击此处直接在线播放演示视频 (video.mp4)](video.mp4)**
+> *(友情提示：点击链接后，GitHub 会在网页中直接打开内置视频播放器播放，您无需下载即可在线观看。)*
 
 该视频录制于 ELF-RV1126 开发板连接 7 寸 LCD 屏的真实运行场景，直观展现了以下系统功能：
 * **路侧三维框感知**：对密集车流的 3D 边界框（底/顶面投影与偏航角）的实时推理。
