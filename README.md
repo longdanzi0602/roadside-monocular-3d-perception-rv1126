@@ -30,7 +30,7 @@
 
 ## 📺 演示视频
 
-<video src="video.mp4" width="100%" controls></video>
+<video src="https://github.com/longdanzi0602/roadside-monocular-3d-perception-rv1126/raw/main/video.mp4" width="100%" controls></video>
 
 本仓库已附带实际板端部署运行效果的演示视频文件（可直接在上方播放器点击播放，或[下载视频文件](video.mp4)）。
 
