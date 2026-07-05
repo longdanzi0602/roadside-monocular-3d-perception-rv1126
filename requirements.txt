@@ -1,0 +1,7 @@
+# Board dependencies (RV1126B)
+# Install on board:
+#   pip install -r requirements.txt
+
+rknn-toolkit-lite2>=2.3.0
+numpy>=1.21
+opencv-python>=4.5

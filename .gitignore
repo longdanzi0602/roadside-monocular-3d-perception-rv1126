@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+
+# Project outputs
+output/
+output_*/
+*.csv
+*.log
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
+
+# Large model weights (exceeds 100MB Git limit)
+N-RTM3D.pth
