@@ -30,7 +30,7 @@
 
 ## 📺 演示视频
 
-> 📺 **[点击此处直接在线播放演示视频 (video.mp4)](video.mp4)**
+> 📺 **[点击此处直接在线播放演示视频 (video.mp4)](https://github.com/longdanzi0602/roadside-monocular-3d-perception-rv1126/blob/main/video.mp4)**
 > *(友情提示：点击链接后，GitHub 会在网页中直接打开内置视频播放器播放，您无需下载即可在线观看。)*
 
 该视频录制于 ELF-RV1126 开发板连接 7 寸 LCD 屏的真实运行场景，直观展现了以下系统功能：
